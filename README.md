@@ -17,6 +17,9 @@ Sign-Up Page
 
 •	Components: Spaces to type in your details like name, Email, Phone and password, plus a button to finish.
 
+![image](https://github.com/Abdul-Mohaimen/Solid-Waste-Management-System/assets/97448982/107289f5-e67a-471c-8dab-b1c8b50831e1)
+
+
 Login Page 
 
 •	Purpose: Helps you Login an account by filling in your info.
