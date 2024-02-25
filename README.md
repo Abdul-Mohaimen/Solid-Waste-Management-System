@@ -26,6 +26,7 @@ Login Page
 
 •	Components: Spaces to type in your details like email and password, plus a button to finish.
 
+![image](https://github.com/Abdul-Mohaimen/Solid-Waste-Management-System/assets/97448982/0c5e122b-8998-4693-b086-488ff2af81f8)
 
 Home Page 
 
@@ -33,17 +34,24 @@ Home Page
 
 •	Components: Apply For Community, introductory content, Side Bar, Pickup Button, Services Button, Prices Button.
 
+![image](https://github.com/Abdul-Mohaimen/Solid-Waste-Management-System/assets/97448982/108b40a5-ea4c-4cdf-94ce-892b3727d88c)
+![image](https://github.com/Abdul-Mohaimen/Solid-Waste-Management-System/assets/97448982/9781966d-4687-444b-afe3-3411a9a9e71a)
+
 Request Pickup Page 
 
 •	Purpose: Lets you ask for recycling services for different types of waste.
 
 •	Components: Drop-down menus to pick your waste type, a spot to put your Name, Email, Phone No, Quantity/Kg, Address, and a button to send your request and Check Scrap rates.
 
+![image](https://github.com/Abdul-Mohaimen/Solid-Waste-Management-System/assets/97448982/61345b38-b193-4883-b6d2-973fde0219bc)
+
 Prices Page 
 
 •	Purpose: Shows you clear info about how much recycling services cost.
 
 •	Components: Easy-to-understand details about the prices
+
+![image](https://github.com/Abdul-Mohaimen/Solid-Waste-Management-System/assets/97448982/5db62328-0290-415d-b903-7c679b1ccf0d)
 
 Community Page App
 
