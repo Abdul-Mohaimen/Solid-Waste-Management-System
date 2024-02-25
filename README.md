@@ -59,10 +59,21 @@ Community Page App
 
 •	Components: Registration Form, Place to Guide you how you will work through Video and some main points Guidelines 
 
-
-<img width="459" alt="sc" src="https://github.com/Abdul-Mohaimen/Solid-Waste-Management-System/assets/97448982/d45b95f1-1d38-48ad-836f-aff00e7ccb62">
-<img width="789" alt="cs" src="https://github.com/Abdul-Mohaimen/Solid-Waste-Management-System/assets/97448982/8fef785b-b866-43df-bfb6-e6468450a0d5">
+![image](https://github.com/Abdul-Mohaimen/Solid-Waste-Management-System/assets/97448982/dd3a812d-4b39-40d9-b6e1-e0a9ad49b2ed)
+![image](https://github.com/Abdul-Mohaimen/Solid-Waste-Management-System/assets/97448982/b9b76e96-2204-4714-9a46-c992d766d17e)
+![image](https://github.com/Abdul-Mohaimen/Solid-Waste-Management-System/assets/97448982/02cf0e21-1563-4a46-91d7-73013438af36)
 
 User Flow Diagram App
 
 <img width="552" alt="User Flow App" src="https://github.com/Abdul-Mohaimen/Solid-Waste-Management-System/assets/97448982/2f7989b4-3de5-427e-b137-71837c98eded">
+
+Benefits
+
+•	Users can effortlessly request recycling services through an intuitive interface.
+
+•	Algorithmic processing ensures efficient routing and scheduling of recycling pickups.
+
+•	Transparent pricing models contribute to user satisfaction and industry collaboration.
+
+•	Community engagement fosters a sense of responsibility, allowing users to actively participate in waste management awareness.
+
